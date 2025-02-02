@@ -1,0 +1,7 @@
+torch==1.9.0
+torchaudio
+librosa
+soundfile
+numpy
+pandas
+matplotlib
