@@ -1,0 +1,5 @@
+python main_SSL_LA.py --test_folder "C:\Users\Legion 5I 72IN\Desktop\SUMMER internship\SSL\SSL_test_interpretation_check" --model_path "C:\Users\Legion 5I 72IN\Desktop\SUMMER internship\SSL\SSL_Anti-spoofing\LA_model.pth" --eval_output "C:\Users\Legion 5I 72IN\Desktop\SUMMER internship\SSL\output_scores_LA.txt"
+
+
+python main_SSL_DF.py --test_folder "C:\Users\Legion 5I 72IN\Desktop\SUMMER internship\SSL\SSL_test" --model_path "C:\Users\Legion 5I 72IN\Desktop\SUMMER internship\SSL\SSL_Anti-spoofing\Best_LA_model_for_DF_cleaned.pth" --eval_output "C:\Users\Legion 5I 72IN\Desktop\SUMMER internship\SSL\output_scores_DF.txt"
+
