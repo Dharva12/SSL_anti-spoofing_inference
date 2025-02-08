@@ -4,7 +4,7 @@ link to the original Repo:- https://github.com/TakHemlata/SSL_Anti-spoofing?tab=
 
 ## Inference pipeline for replication
 
-Make sure to replace paths to relevant files/folders where required.
+Make sure to replace paths to relevant files/folders in the code files, the inference snippet and where required.
 
 ### 1. Setup Instructions
 #### 1.1 Clone the Repository
